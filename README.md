@@ -1,6 +1,5 @@
 Feedapi
 =======
 
-Feed API Google
+Using Google's Feed API to create an RSS feed website that will display the top 250 most recent feeds from TED Talk. 
 
-This feed api will allow users to get a TED talk feed and display that on a web page.
